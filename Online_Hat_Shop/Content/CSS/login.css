@@ -1,0 +1,13 @@
+#examples2 {
+  margin-top: 100px;
+  margin-left: 400px;
+  margin-bottom: 100px;
+}
+#examples2 input {
+  width: 400px;
+  height: 50px;
+  font-size: 20px;
+}
+#examples2 h3 {
+  font-size: 30px;
+}

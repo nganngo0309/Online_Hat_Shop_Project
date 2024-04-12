@@ -1,0 +1,15 @@
+#ctsp {
+  font-size: 35px;
+  margin: 50px;
+  text-align: left;
+  color: red;
+}
+#sp h3 {
+  font-size: 50px;
+}
+.add-to-cart:hover {
+  background-color: red;
+  border: white;
+  border-radius: 50%;
+  font-weight: bolder;
+}
